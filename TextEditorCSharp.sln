@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditorWinForms", "TextEditorCSharp\TextEditorWinForms.csproj", "{1F6CA6B3-4963-433E-AE0B-046A39298E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor.Core", "TextEditor.Core\TextEditor.Core.csproj", "{19B5F48E-95E4-4A1E-811A-72972D2FF346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6CA6B3-4963-433E-AE0B-046A39298E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6CA6B3-4963-433E-AE0B-046A39298E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6CA6B3-4963-433E-AE0B-046A39298E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6CA6B3-4963-433E-AE0B-046A39298E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B5F48E-95E4-4A1E-811A-72972D2FF346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B5F48E-95E4-4A1E-811A-72972D2FF346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B5F48E-95E4-4A1E-811A-72972D2FF346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B5F48E-95E4-4A1E-811A-72972D2FF346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5CDDA3B-C993-46A6-A515-F7534A8B2EF8}
+	EndGlobalSection
+EndGlobal
